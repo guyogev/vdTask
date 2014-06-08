@@ -1,4 +1,4 @@
-package com.example.hellowworld;
+package com.example.aaa;
 
 import android.app.Activity;
 import android.hardware.Sensor;
